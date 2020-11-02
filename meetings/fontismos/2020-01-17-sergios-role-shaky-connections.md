@@ -13,5 +13,5 @@
   * We cannot rely on **online** **offline** browser events.
   * It is better to inform the user about the loss of connection and to pause the upload.
   
-  ![Talk Summary Poster](https://github.com/Vizzuality/frontismos/blob/master/meetings/Uploads%20on%20a%20shaky%20connection%20study.jpg)
+  ![Talk Summary Poster](assets/shaky-connections.jpg)
   
