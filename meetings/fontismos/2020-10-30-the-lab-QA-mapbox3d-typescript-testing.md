@@ -2,7 +2,7 @@
 
 ## Attendees
 
-Miguel Barrenechea, David Inga, Clemment, Ed Brett, Dani, Andres, Alvaro, Javi Abia.
+Miguel Barrenechea, David Inga, Clemment, Ed Brett, Dani, Andres, Alvaro, Tomas, Javi Abia.
 
 
 ## Frontismos repo
