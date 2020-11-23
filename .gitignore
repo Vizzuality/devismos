@@ -2,6 +2,8 @@
 .env
 # dependencies
 node_modules/
+.obsidian/
+obsidian.css
 /.pnp
 .pnp.js
 
