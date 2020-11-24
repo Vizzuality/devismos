@@ -35,7 +35,7 @@ Allocations:
  
 
 ## Working Groups
-The initial role definitions and 4 monthss experiments could be found on [this document](https://docs.google.com/document/d/1fLtHAdbc5DTWHzRI_RM2zY5SzGUDvxpkh9k1id6PSyw/edit).
+The initial role definitions and 4 months experiments could be found on [this document](https://docs.google.com/document/d/1fLtHAdbc5DTWHzRI_RM2zY5SzGUDvxpkh9k1id6PSyw/edit).
 
 ### Community & growth
 *Responsibles: Alvaro, Dani*
