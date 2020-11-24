@@ -22,3 +22,8 @@ If you're interested in this tech take a look 👀
 `yarn install`
 
 `yarn start`
+
+### Categories
+
+- [[WebGL]]
+- [[Mapping]]

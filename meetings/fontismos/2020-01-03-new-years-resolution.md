@@ -1,5 +1,7 @@
 # 2020-01-03 New year's resolutions for 2020
 
+#### Categories:
+[[Architecture]], [[Protocols]], [[Frameworks]], [[Mobile]], [[Integration]], [[WebGL]], [[Design]]
 *****
 
 ## Shared links

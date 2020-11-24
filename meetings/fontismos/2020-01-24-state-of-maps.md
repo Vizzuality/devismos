@@ -1,12 +1,15 @@
-# 2020-01-24 Discussion about state of maps in Vizzuality and WebGL workshop
+# 2020-01-24 Discussion about state of maps in Vizzuality and [[WebGL]] workshop
+
+#### Categories:
+[[In House]], [[WebGL]], [[Mapping]]
 
 *****
 
 * Do we want to use zeit/now as deploy option?
-* We should prepare a webgl workshops. Javi(@weberjavi) will start a proposal.
+* We should prepare a [[WebGL]] workshops. Javi(@weberjavi) will start a proposal.
 * Why we use mapbox?
   * First motivation get vector tiles into the map (open sourced the vector tile spec seemed a good shot).
-  * Performance: WebGL, vector tiles more performant (interaction, smooth scrolling...), eventually decoding vectors for animations...
+  * Performance: [[WebGL]], vector tiles more performant (interaction, smooth scrolling...), eventually decoding vectors for animations...
   * Why through the Layer Manager?
     * Organized
     * Config driven

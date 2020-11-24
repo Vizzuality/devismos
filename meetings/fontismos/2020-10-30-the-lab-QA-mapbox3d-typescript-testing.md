@@ -1,5 +1,8 @@
 # 2020-11-30 The Lab, QA meeting, Mapbox 3D beta, typescript, testing
 
+#### Categories:
+[[Quality]], [[In House]], [[Testing]], [[Typing]], [[Programming Languages]], [[WebGL]], [[Mapping]]
+
 ## Attendees
 
 Miguel Barrenechea, David Inga, Clemment, Ed Brett, Dani, Andres, Alvaro, Tomas, Javi Abia.

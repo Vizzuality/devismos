@@ -2,6 +2,6 @@
 
 *****
 
-* [Technical Links](./links-technical.md)
-* [Learning Links](./links-technical.md)
-* [Books](./books.md)
+* [Technical Links](Awesome-react-renderer)
+* [Learning Links](Awesome-react-renderer)
+* [Books](A%20Philosophy%20of%20Software%20Design)

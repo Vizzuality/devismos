@@ -1,5 +1,8 @@
 # 2020-01-17 Sergio's role and Clément´s upload on a shaky connection
 
+#### Categories:
+[[Quality]], [[Performance]], [[Integration]]
+
 *****
 
 * Sergio gave a talk about his role and plans for 2020 [Slack message link](https://vizzuality.slack.com/archives/C062HTHA5/p1579266067017600)
