@@ -44,12 +44,41 @@ The initial role definitions and 4 months experiments could be found on [this do
 *Responsibles: Inga, Javi Abia*
 
 ## Quality 
-*Responsible: Clemment*
+*Responsible: Clément*
 
-Resume of meeting with Sergio regarding Quality. Notes here: ----
+Resume of meeting with Sergio regarding Quality.
 
-Front End needs to define quality from project and client perspective.
-Ideas jotted down in the call could be found here: ---
+Front End needs to define quality from project and client perspective (see below).
 
-Next quality meeting will be on December the 3rd. Clemment can not attend, Tomas will go instead.
+Next quality meeting will be on December the 3rd. Clément can not attend, Tomas will go instead.
+
+### Quality for the front-end team
+
+_This is a summary of the discussions about what do we think quality means and what can we do to improve it in the coming months._
+
+Our definitions of quality for the the two pillars are:
+
+- Quality of the product:
+
+Technically, a project with good quality is a project that is maintainable and scalable (in case of long-term contracts). It’s also a project where we have procedures in place to reduce the number of bugs and prevent them from getting back. We don’t think it’s possible to deliver a “bug-free” experience.
+
+Having good estimates, sticking to the scope and delivering on time also affect the quality of the final product. We think that poorly estimated or out-of-scope features often get rushed, and as such, delivered with a lower quality: less maintainable and scalable, and more prone to bugs.
+
+- Quality from the stakeholders’ point of view:
+
+For our users, we think that a quality product is when it matches their needs (serves the purpose), it is stable, consistent and simple to use, it looks good, and finally, it is accessible and works well on their devices (performant and responsive).
+
+For out clients, we think think that the same characteristics apply, and that in addition, it is a high quality product when the final implementation matches what was presented to them (especially the design) and that they feel listened to when they provide feedback.
+
+- - -
+
+In order to build products with high quality, we’d like to propose the following plan for our FA and suggestions for the others:
+- We’ll transition new projects to typed languages such as Typescript to avoid common code errors
+- We’d like to make unit tests mandatory for every new features that is implemented
+- We’d like to have at least two front-end developers working in each project so they can review each other’s work
+- We’d like new contracts to account for the time dedicated to writing tests: though we think it will save time on the long term, there is an impact for the initial development phase
+- We’d like follow-up contracts to explicitly dedicate a part of the budget to technical debt, when the first one was rushed in
+- We’d like the scope to be kept, or if it evolves, to contain the same amount of work as initially planned
+- We’d like Vizzuality to consider hiring a QA role to help us with testing the live products and identify bugs before the client does so
+
 
