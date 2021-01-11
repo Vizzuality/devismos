@@ -3,4 +3,4 @@ You'll find here the definition of the different roles and the actual representa
 
 | Role | Responsibles |
 |------|--------------|
-|[[Capacity owner]]| Maria|
+|[Capacity owner](https://github.com/Vizzuality/frontismos/blob/master/roles/Capacity%20owner.md)| Maria|
