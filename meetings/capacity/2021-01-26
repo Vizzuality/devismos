@@ -12,10 +12,11 @@ Layer Manager
 - David will take ownership of current proposal. Currently he is ok in terms of capacity because there is a little work to do in Mars and Expert range mapper. 
 If any of those projects get heavy on workload he will probably need support.
 He offered his help to the BE team but the is not much to help with right now.
-- David will organise a mob session for this or the following "frostismos".
+- David will organise a mob session for this or the following "frontismos".
 - David and Tomas will make a plan for testing the LM (all of us should be involved in testing somehow, so far Dani offered his interest).
 - Andrés currently working on the monorepo, the plan is to finish it this week (he showed the progess in the meeting).
-- Javi is interested in documentation in LM, he could spare half a day or a bit more starting next week. 
+- Javi is interested in documentation in LM, he could spare half a day or a bit more. 
+- David - Typescript conversion
 
 Rest of the projects
 - OTP still blocked by the backend to finish some taks
