@@ -7,6 +7,7 @@ Some days ago (March 2021) we decided to implement Next-Auth on the Marxan proje
 * Increase of security
 * Standardarization of authentication workflow
 * Less code to maintain
+* Sync of expiration session
 * It provides a login page if you want (we usually don't)
 
 ## How to use it using on Vizzuality projects
