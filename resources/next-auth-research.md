@@ -44,6 +44,18 @@ Our response have the next structure:
 
 So, `displayName`, `fname` and `lname` are ignored in the session creation.
 
+```
+// session object created by next-auth
+{
+    "user": {
+        "name": null,
+        "email": "yomeloguiso@yomelo.como",
+        "image": null
+    },
+    "expires": "2021-04-07T09:39:33.591Z"
+}
+```
+
 You will say, in the documentation seems there is a way to extend the session. It's true but the paramaters you received are the session object (limited) and the decoded json web token (also limited).
 
 Conclusion, you cannot use a complete profile for session creation, at least with Credentials provider. We can live with that, because you can request the profile to the API. But it opens the second issue.
