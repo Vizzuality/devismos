@@ -42,7 +42,7 @@ Our response have the next structure:
 }
 ```
 
-So, `displayName`, `fname` and `lname` are ignored in the session creation.
+So, `displayName`, `fname`, `lname` and `access_token` are ignored in the session creation.
 
 ```
 // session object created by next-auth
