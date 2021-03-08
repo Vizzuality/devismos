@@ -11,7 +11,7 @@ Some days ago (March 2021) we decided to implement Next-Auth on the Marxan proje
 
 ## How to use it using on Vizzuality projects
 
-You can mostfly follow (the documentation)[https://next-auth.js.org/getting-started/example]. And, use (Credentials provider)[https://next-auth.js.org/providers/credentials]
+You can mostfly follow [the documentation](https://next-auth.js.org/getting-started/example). And, use [Credentials provider](https://next-auth.js.org/providers/credentials)
 which seems to be the one we need. And it works fine but we found two main issues.
 
 ### 1. No possibility to extend the session object.
