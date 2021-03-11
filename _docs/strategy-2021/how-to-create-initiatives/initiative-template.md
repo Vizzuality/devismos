@@ -14,12 +14,26 @@ Small description and context
 | End date | 2021-12-31     |
 | Status | 🟢 ongoing |
 
-# Outcomes
+---
+# Responsibilities
+_day to day tasks_
+# Impact
+_How do I know I am doing a good job? Outcomes, contributions._
+# Decision making
+_What can I make the final call on, if anything?_
+---
+# Proposal
 
-* We get Consequat deserunt elit cillum est nostrud. Adipisicing esse do magna Lorem nostrud in occaecat. Nostrud irure dolor fugiat nostrud magna ex eu. Dolor ullamco laboris laboris nulla Lorem. Sit dolor aute deserunt Lorem esse do qui nisi. Voluptate consectetur non tempor deserunt aute anim adipisicing officia voluptate adipisicing non in. Duis voluptate eu quis incididunt veniam consequat ea commodo consectetur commodo.
+## What do you propose we try?
+_What’s the immediate need? What’s the smallest thing we could do to move forward?, Activities and timelines?, How long will the experiment last? What will be different in a few months?_
 
-* We get Consequat deserunt elit cillum est nostrud. Adipisicing esse do magna Lorem nostrud in occaecat. Nostrud irure dolor fugiat nostrud magna ex eu. Dolor ullamco laboris laboris nulla Lorem. Sit dolor aute deserunt Lorem esse do qui nisi. Voluptate consectetur non tempor deserunt aute anim adipisicing officia voluptate adipisicing non in. Duis voluptate eu quis incididunt veniam consequat ea commodo consectetur commodo.
+## What do you need to make it happen?
+_Where do you have discretion and freedom to act? , Do you need time, resources, etc.? What will you have to stop doing to be able to focus on this? Who will be involved and what are they committing to?_
 
+## Follow up and evolution?
+_How are you planning to keep the team informed about progress?, When will you conduct a retrospective to collect perspectives and learning?_
+
+---
 # Decision log
 
 ### 2021-03-12
