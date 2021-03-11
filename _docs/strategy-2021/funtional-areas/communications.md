@@ -17,7 +17,7 @@ Share our resources with communication about whatever interesting information.
 
 Provide support for developers who are willing to write.
 
-## Actions
+## Actions and related initiatives
 
 * have four communication pieces by the end of the year.
 * align those pieces with the broader communication strategy.

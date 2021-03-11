@@ -12,7 +12,7 @@ Small description and context
 | Responsible | The who | 
 | Start date | 2021-03-12   |
 | End date | 2021-12-31     |
-| Status | ongoing |
+| Status | 🟢 ongoing |
 
 # Outcomes
 

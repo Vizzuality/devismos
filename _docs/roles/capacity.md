@@ -1,3 +1,9 @@
+---
+layout: default
+title: Capacity role
+parent: Roles
+---
+
 __Current responsible__
 __MARIA__
 
