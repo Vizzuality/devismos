@@ -1,3 +1,10 @@
+---
+layout: default
+title: 2020-01-17
+parent: Frontismos
+grand_parent: Meeting notes
+---
+
 # 2020-01-17 Sergio's role and Clément´s upload on a shaky connection
 
 #### Categories:

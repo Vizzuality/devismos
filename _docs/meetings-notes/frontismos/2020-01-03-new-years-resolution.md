@@ -1,3 +1,10 @@
+---
+layout: default
+title: 2020-01-03
+parent: Frontismos
+grand_parent: Meeting notes
+---
+
 # 2020-01-03 New year's resolutions for 2020
 
 #### Categories:

@@ -1,3 +1,10 @@
+---
+layout: default
+title: 2020-01-24
+parent: Frontismos
+grand_parent: Meeting notes
+---
+
 # 2020-01-24 Discussion about state of maps in Vizzuality and [[WebGL]] workshop
 
 #### Categories:

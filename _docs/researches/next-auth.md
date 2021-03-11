@@ -1,3 +1,9 @@
+---
+layout: default
+title: Next Auth
+parent: Researches
+---
+
 # Next Auth research
 
 Some days ago (March 2021) we decided to implement Next-Auth on the Marxan project. Why? For many reasons:

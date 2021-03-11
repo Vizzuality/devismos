@@ -1,3 +1,10 @@
+---
+layout: default
+title: 2020-11-24
+parent: Frontismos
+grand_parent: Meeting notes
+---
+
 # 2020-11-24-capacity-strategy-community
 
 ### Atendees

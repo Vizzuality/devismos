@@ -1,3 +1,10 @@
+---
+layout: default
+title: 2020-01-30
+parent: Frontismos
+grand_parent: Meeting notes
+---
+
 # 2020-11-30 The Lab, QA meeting, Mapbox 3D beta, typescript, testing
 
 #### Categories:

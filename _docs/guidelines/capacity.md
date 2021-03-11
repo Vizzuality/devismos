@@ -1,5 +1,10 @@
+---
+layout: default
+title: Capacity
+parent: Guidelines
+---
+
 # Capacity meeting structure
-Status: Draft. Pending to consent.
 
 ### Resources
 - [capacity spreadsheet](https://docs.google.com/spreadsheets/d/1YDqgJ0yHJetG5oYeaTI50NWGXsg3BenBNZ4Y7zCxapU/edit#gid=499833435)
