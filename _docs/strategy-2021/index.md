@@ -9,6 +9,14 @@ has_toc: true
 
 ### Ser un equipo organizado, cohesionado, con procesos estandarizados y alta calidad en nuestros entregables. Donde nuestro trabajo y expericiencia sea más visible entre areas funcionales y también fuera de la empresa. Tener una imagen de equipo sólido, experto y orgulloso de lo que hacemos.
 
+Priorities:
+
+## Standardization, quality and efficiency
+## Transparency, visibility and communication
+## Community and share knowledge
+## Capacity, growth paths and hiring
+## Training and innovation
+
 ## Standardization & Quality
 
 Queremos estandarizar todos nuestros procesos en la creación de proyectos, formas de trabajar y ... Con el fin de facilitar el movimiento entre proyectos y el onboarding. Ayudaría en centrar el esfuerzo en el problema en lugar de la configuración. Reutilización del conocimiento, avanzar en la experiencia en lugar de empezar siempre desde cero. Disminución de la deuda técnica. Resiliencia en caso de la gente se pire.
@@ -34,15 +42,6 @@ Con el fin de hacer más visible nuestro trabajo a otra areas funcionales debemo
 
 * 🟢 [Internal blog posts every quarter](/docs/strategy-2021/initiatives-directory/typescript)
 * ⚪ [Enginering blog](/docs/strategy-2021/initiatives-directory/typescript)
-
-## Team organization
-
-Explicitar y definir roles. Representantes requeridos por la empresa u otras areas functionales: Quality, Efficiency, Montly, BD, Hiring and Capacity. Roles necesarios para la organización y crecimiento del equipo: Community y Strategy.
-
-Here you can see the **[current roles](/docs/roles/index/)**.
-
-* 🟢 [Strategy](/docs/strategy-2021/initiatives-directory/typescript)
-* 🔴 [Roles proposal](/docs/strategy-2021/initiatives-directory/typescript)
 
 ## Capacity and team growing
 
@@ -71,10 +70,22 @@ Adicionalmente tenemos 2 proyectos internos que cuenta con el apoyo de toda la e
 * 🟢 [Training's company initiative](/docs/strategy-2021/initiatives-directory/typescript)
 * 🔴 [Layer Manager](/docs/strategy-2021/initiatives-directory/typescript)
 
----
+## What's new?
 
-🟢 Ongoing
+### New documentation page
 
-🔴 Paused or blocked
+We created a simple static site using Jekyll where we will centralize all the information and documentation we have. Please, feel free to add more content.
 
-⚪ Not started yet
+Also, we reestructure all the information we have. Some new sections are for instance guidelines, recurrent activities and researches.
+
+### New team organization and new roles
+
+Roles and team organization have been redefined in order to make it more explicit, clear and aligned with the current strategy.
+
+[Link to the new roles](/docs/strategy-2021/roles/index)
+
+### Activities and initiatives directory
+
+As an effort to centralize all the information and let you know about all activities we created a initiatives directory where you can see all the initiatives we are doing, we will do and how we will do.
+
+* [How to create a initiative](/docs/guidelines/how-to-create-initiatives/index)
