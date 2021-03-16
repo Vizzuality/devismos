@@ -2,7 +2,7 @@
 layout: default
 title: Initiative template
 parent: How to create initiatives
-grand_parent: Strategy 2021
+grand_parent: Guidelines
 ---
 
 # Title of the initiative

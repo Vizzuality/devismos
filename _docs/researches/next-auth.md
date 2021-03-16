@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Next Auth
+title: Next Auth implementation with JWT API
 parent: Researches
 ---
 
-# Next Auth research
+# Next Auth implementation with JWT API
 
-Some days ago (March 2021) we decided to implement Next-Auth on the Marxan project. Why? For many reasons:
+David Inga, March 2021
+
+Some days ago we decided to implement Next-Auth on the Marxan project. Why? For many reasons:
 
 * Ability to add whatever service (called provider) such as Google, Twitter, Facebook, and others like Battle.net, Spotify (why not?)
 * Better workflow working with JWT

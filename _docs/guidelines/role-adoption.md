@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Mob session
+title: Roles
 parent: Guidelines
 ---
 
-# Mob session
+# Roles
+
+## Rotation

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Server side rendering
+parent: Guidelines
+---
+
 # Server side rendering
 
 When makes sense:

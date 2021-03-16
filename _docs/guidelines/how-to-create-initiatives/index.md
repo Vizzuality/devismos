@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to create initiatives
-parent: Strategy 2021
+parent: Guidelines
 has_children: true
 has_toc: true
 ---
