@@ -6,7 +6,7 @@ parent: Strategy 2021
 
 # Strategy priorities for 2021
 
-## Standardization, quality and efficiency
+## Standardization and quality
 
 **Standardization and quality are our priorities for this year**. We are going to make several agreements and conversations inside and outside the group. For instance, these are some of the topics to cover:
 
@@ -24,19 +24,21 @@ Why? we think the next will be the **benefits** and also will be **our goals**:
 * Reusability
 * Facilitate the rotation and onboarding in the projects
 * Resilience in case of leavings
+* [Define quality goals for 2021](/docs/strategy-2021/quality-goals)
 
 
-## Transparency, visibility and communication
+## Visibility and communication
 
 We will create documentation to cover everything what we do, we will do and how we will do. A new role has been created for this, and also it will be a point of contact for the functional areas to support and make initiatives together. For example Skill surveys initiative is part of this.
 
 Goals:
 
+* Be more transparent and explicit
 * Reduce the initiatives duplication
 * Increase collaboration with other functional areas
 * Make more visible our work, knowledge, interests and needs
 
-## Community and share knowledge
+## Community and knowledge sharing
 
 We created an initiative called "Community and growth" where the main goal was to increase the sense of belonging to the team and increase the internal interactions. We wanted to continue working on it during the year. Some of the goals and benefits:
 
@@ -46,17 +48,22 @@ We created an initiative called "Community and growth" where the main goal was t
 * Solve problems as a group
 * Will help on the standardization strategy
 
-## Capacity, growth paths and hiring
+## Capacity and hiring
 
 We will cover all the need from the projects in terms of capacity, we have the responsibility to decide when we want to start a hiring process where.
 
 Our goals:
 
-* For this year we want to hire 2 mid level people to replace people leavings.
-* Creation of a long term plan of onboarding for junior profiles.
-* Hire a junior by the end of this year (after the onboarding plan has been created).
+* For this year we want to **hire 2 mid level people** to replace people leavings.
+* Creation of **a long term plan of hiring and team growth**.
+* Creation of a proper **onboarding guideline for junior profiles**.
+* Hire **one junior by the end of this year** (after the onboarding plan has been created).
+
+## Personal growth and paths
 
 We need a plan of growing for the team, where our roles, responsibilities and expectations have been defined and are explicit. We are waiting for the People and Culture initiative where we will participate actively.
+
+* Current and not updated [growing paths]((/docs/growing-paths/index))
 
 ## Training and innovation
 

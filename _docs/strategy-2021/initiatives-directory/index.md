@@ -8,44 +8,26 @@ has_toc: false
 
 # Initiatives directory
 
-## Aligned with strategy
+The next are the initiatives we should cover and start along the year. Remember to review [our priorities for this year](/docs/strategy-2021/strategy-priorities). Also, new initiatives are welcome and here you can review [how to create new initiatives](/docs/guidelines/how-to-create-initiatives/index).
 
-Estas son las iniciativas que tenemos que cubrir en algún momento en el año 2021 ordenadas por prioridad.
+| Initiative | Status | Strategy | Owner | FA collaboration |Start date | End date |
+|:--|:--|:--|:--|:--|:--|:--|
+| [Strategy definition](/docs/strategy-2021/initiatives-directory/strategy-definition) | Ongoing | - | David I. and Javi | - | Nov-2020 | Mar-2021 |
+| [Community and growth](/docs/strategy-2021/initiatives-directory/community-growth) | Ongoing | Community and share knowledge | Alvaro and Pablo | - | Nov-2020 | Mar-2021 | 
+| [Layer Manager](/docs/strategy-2021/initiatives-directory/quality) | Ongoing | Standardization and quality | David I. | - | Feb-2021 | Mar-2021 |
+| [Hiring proposal](/docs/strategy-2021/initiatives-directory/hiring-proposal) | Ongoing | Capacity and hiring | Tomas | People and Culture | Mar-2021 | Mar-2021 |
+| [Skills survey](/docs/strategy-2021/initiatives-directory/skills-survey) | Ongoing | Visibility and communication | Alvaro and Maria | - | Jan-2021 | - |
+| [Accessibility course](/docs/strategy-2021/initiatives-directory/accessibility-course) | Proposal | Community and knowledge sharing | Pablo and Clement | - | - | - |
+| Vizz components | - | Standardization and quality | Clement? | - | - | - |
+| Typescript adoption | - | Standardization and quality | - | - | Jan-2021 | Dec-2021 |
+| Testing adoption | - | Standardization and quality | - | - | Jan-2021 | Dec-2021 |
+| Deliverables from design group | - | Standardization and quality | - | Design and research | - | - |
+| Onboarding guideline for juniors | - | Capacity and hiring | - | People and Culture | - | - |
+| Long term hiring plan | - | Capacity and hiring | - | People and Culture | - | - |
 
-| Initiative | Responsible | Start date | End date | Status |
-|:-----------|:------------|:-----------|:---------|:-------|
-| [Vizz components](/docs/strategy-2021/initiatives-directory/quality) | - | 2021 | 2021 | ⚪ |
-| [Vizz components](/docs/strategy-2021/initiatives-directory/quality) | - | 2021 | 2021 | ⚪ |
-| [Vizz components](/docs/strategy-2021/initiatives-directory/quality) | - | 2021 | 2021 | ⚪ |
-| [Vizz components](/docs/strategy-2021/initiatives-directory/quality) | - | 2021 | 2021 | ⚪ |
-| [Vizz components](/docs/strategy-2021/initiatives-directory/quality) | - | 2021 | 2021 | ⚪ |
+## Other initiatives
 
-* ⚪ [Vizz components](/docs/strategy-2021/initiatives-directory/quality)
-* 🟢 [Typescript adoption](/docs/strategy-2021/initiatives-directory/typescript)
-* 🔴 [Testing adoption](/docs/strategy-2021/initiatives-directory/testing-adoption)
-* ⚪ [How to work on big projects](/docs/strategy-2021/initiatives-directory/testing-adoption)
-* 🟢 [Quality](/docs/strategy-2021/initiatives-directory/quality)
-* ⚪ [Define deliverables for design group](/docs/strategy-2021/initiatives-directory/quality)
+The next initiatives are not a priority for this year:
 
-* 🟢 [Community](/docs/strategy-2021/initiatives-directory/typescript)
-* 🟢 [Pair programming](/docs/strategy-2021/initiatives-directory/typescript)
-* 🟢 [Mob sessions](/docs/strategy-2021/initiatives-directory/typescript)
-
-* 🟢 [Internal blog posts every quarter](/docs/strategy-2021/initiatives-directory/typescript)
-* ⚪ [Enginering blog](/docs/strategy-2021/initiatives-directory/typescript)
-* 🟢 [Mid level hiring for May](/docs/strategy-2021/initiatives-directory/typescript)
-* 🔴 [Long term hiring and team grow plan](/docs/strategy-2021/initiatives-directory/typescript)
-* 🔴 [Onboarding process for juniors](/docs/strategy-2021/initiatives-directory/typescript)
-
-* 🟢 [Skills surveys](/docs/strategy-2021/initiatives-directory/typescript)
-* 🟢 [Proposal of areas of knowledge for every category](/docs/strategy-2021/initiatives-directory/typescript)
-* 🔴 [Areas of growing for each functional area](/docs/strategy-2021/initiatives-directory/typescript)
-* 🟢 [Training's company initiative](/docs/strategy-2021/initiatives-directory/typescript)
-* 🔴 [Layer Manager](/docs/strategy-2021/initiatives-directory/typescript)
-
-## Other initiatives proposed
-
-No necesariamente alineadas con la estrategia, pero que están a la espera de un owner que en el momento que considere se pueda iniciar y poner en marcha. [How to create inititives](/docs/strategy-2021/how-to-create-initiatives).
-
-* Vizz components
-* Typescript adoption
+| Initiative name | Strategy | FA collaboration |
+| [Engineering blog creation](/docs/strategy-2021/initiatives-directory/typescript) | Visibility and Communication | Communication |

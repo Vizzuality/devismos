@@ -10,11 +10,11 @@ You'll find here the definition of the different roles and the actual representa
 
 | Role | Current responsible |
 |:--|:--|
-| [Capacity](/docs/roles/capacity) | Maria Luena |
-| [Quality and efficiency](/docs/roles/quality-efficiency) | Clement |
-| [Support and communication](/docs/roles/visibility-communication) | Alvaro |
-| [Community and growth](/docs/roles/community-growth) | Pablo Pareja |
-| [Innovation and research](/docs/roles/innovation-research) | - |
+| [Strategy facilitator](/docs/roles/strategy) | Javier |
+| [Standardization and Quality](/docs/roles/standardization-quality) | Clement |
+| [Visibility and communication](/docs/roles/visibility-communication) | Alvaro |
+| [Community and knowledge sharing](/docs/roles/community) | Pablo |
+| [Capacity](/docs/roles/capacity) | Maria |
 
 Related documents:
 
