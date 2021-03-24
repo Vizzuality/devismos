@@ -10,11 +10,11 @@ You'll find here the definition of the different roles and the actual representa
 
 | Role | Current responsible |
 |:--|:--|
-| [Strategy facilitator](/docs/roles/strategy) | Javier |
-| [Standardization and Quality](/docs/roles/standardization-quality) | Clement |
-| [Visibility and communication](/docs/roles/visibility-communication) | Alvaro |
-| [Community and knowledge sharing](/docs/roles/community) | Pablo |
-| [Capacity](/docs/roles/capacity) | Maria |
+| [Strategy facilitator](/docs/strategy-2021/roles/strategy) | Javier |
+| [Standardization and Quality](/docs/strategy-2021/roles/standardization-quality) | Clement |
+| [Visibility and communication](/docs/strategy-2021/roles/visibility-communication) | Alvaro |
+| [Community and knowledge sharing](/docs/strategy-2021/roles/community) | Pablo |
+| [Capacity](/docs/strategy-2021/roles/capacity/) | Maria |
 
 Related documents:
 
