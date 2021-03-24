@@ -14,7 +14,7 @@ You'll find here the definition of the different roles and the actual representa
 | [Standardization and Quality](/docs/strategy-2021/roles/standardization-quality) | Clement |
 | [Visibility and communication](/docs/strategy-2021/roles/visibility-communication) | Alvaro |
 | [Community and knowledge sharing](/docs/strategy-2021/roles/community) | Pablo |
-| [Capacity](/docs/strategy-2021/roles/capacity/) | Maria |
+| [Capacity](/docs/strategy-2021/roles/capacity) | Maria |
 
 Related documents:
 

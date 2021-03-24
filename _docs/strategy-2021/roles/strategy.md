@@ -5,7 +5,7 @@ parent: Roles
 grand_parent: Strategy 2021
 ---
 
-# Capacity role definition
+# Strategy role definition
 
 **Current responsible**: Javier Abia
 

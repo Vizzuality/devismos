@@ -5,7 +5,7 @@ parent: Roles
 grand_parent: Strategy 2021
 ---
 
-# Community and Growth role definition
+# Community and knowledge sharing role definition
 
 **Current responsible**: Pablo
 
