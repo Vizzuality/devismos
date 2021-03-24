@@ -9,19 +9,21 @@ grand_parent: Strategy 2021
 
 ## What we commit to
 
-Include them on deploy decisions that they might need to evaluate.
-Work together on the definition of the specs on dependant tasks.
+- Include them on deploy decisions that they might need to evaluate.
+- Work together on the definition of the specs on dependant tasks.
 
 
 ## What they commit to
 
-Have a clear understanding of the solutions and the architectural decisions to reduce the negative impacts of our implementations on both ends. 
-Agree on the services, operations, and infrastructure in the early phase of projects. Also, align our strategies and actions on common areas from both groups (testing, typescript adoption, standardization, etc).
-Have an initial conversation to get a common agreementtasks related to both back and front to get a common agreement.
-Work together on the definition of the specs on dependant tasks.
+- Have a clear understanding of the solutions and the architectural decisions to reduce the negative impacts of our implementations on both ends. 
+- Agree on the services, operations, and infrastructure in the early phase of projects. Also, align our strategies and actions on common areas from both groups (testing, typescript adoption, standardization, etc).
+- Have an initial conversation to get a common agreement on tasks related to both back and front.
+- Work together on the definition of the specs on dependant tasks.
 
 
-## Actions and related initiatives
+## Improvement / collaboration areas 
+_FA relation would benefit of these actions. 
+Implementing these initiatives would depend on capacity_
 
 - Open a conversation to standardize deployments.
 - Open a conversation to standardize git flow and branching strategies.
