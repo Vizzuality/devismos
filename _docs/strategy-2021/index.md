@@ -7,6 +7,10 @@ has_toc: true
 
 # Strategy 2021
 
+1. All our initiatives and actions will be aligned to [the company's priorities]() for 2021 and also aligned with our strategy.
+2. Having better estimations and we will not spend all the time of the budget as much as possible.
+3. Be explicit and communicate all our initiatives, actions and involve other FA when is needed.
+
 ## Purpose
 
 To be an solid, organized and cohesive team, with standardized processes and high quality in our deliverables. Where our work and experience is more visible among the functional areas and also outside the company. We are good developers and we are proud of what we do.

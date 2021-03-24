@@ -8,12 +8,17 @@ has_toc: false
 
 # Operational needs
 
+## Operations
+
+Everybody will spend a **5% of our time on operations** as minimum ([Frontismos](/docs/recurrent-activities/frontismos-meetings) and [Capacity meeting](/docs/recurrent-activities/capacity-meetings)).
+And could increase until **20% of our time on operations** in some cases. For instance the organizational roles, team retrospectives and other very specific activities.
+
 ## Vercel
 
-[More info](/docs/guidelines/vercel) about why and how we use Vercel as a development tool. To take on account:
+[More info](/docs/guidelines/vercel) about why and how we use [Vercel]() as a development tool. To take on account:
 
 - Until 10 team members
-- Cost of **20$/month per member**, currently 160$/month
+- Cost of **10$/month per member** and a little amount for server maintenance. Currently **110$/month**. NOTE: we have a special price.
 
 ## Training budget
 
