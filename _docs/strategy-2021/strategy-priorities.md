@@ -8,6 +8,8 @@ parent: Strategy 2021
 
 ## Standardization and quality
 
+**NOTE: There will be a conversation among all FA to prioritize all the standardization initiatives. We have a a budget of 50K for the whole year to all FA for standardization.**
+
 **Standardization and quality are our priorities for this year**. We are going to make several agreements and conversations inside and outside the group. For instance, these are some of the topics to cover:
 
 * Project creation (framework and libraries)
