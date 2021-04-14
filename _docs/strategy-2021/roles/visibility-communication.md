@@ -11,18 +11,20 @@ grand_parent: Strategy 2021
 
 ## Responsibilities
 
-- Being the point of contact with other functional areas for any communication purposes
-- Help other functional areas to understand the map of technologies and tools
-- Provide support to elaborate a basic knowledge base for proposals
-- Help other functional areas to find someone inside FE people to estimate timelines and effort for proposals based on capacity and previous experience
-- Keep maintained the Workflow document created with Mendoza
-- Keep maintained the Skill Surveys
+### Internal communication and request distribution
+- Be the point of contact with other functional areas for any internal communication purposes
+- Provide support for finding FE people for ideating and writing the most creative/strategic proposals and estimations
 - Help on the creation of blog posts
-- Help on the maintenance of the resources section
+
+### Map and communicate skills, technologies, and workflow
+- Maintain the Skill Survey and map the current technical possibilities of the frontend team
+- Help other functional areas understand the map of technologies and tools we use
+- Maintain the Workflow document created with Mendoza
+- Provide support to elaborate a basic knowledge base for proposals
 
 ### Business and development requirements
-- Provide support for finding FE people for ideating and writing the most creative/strategic proposals
 - Participate in BD/FE retrospectives every 6 months
+
 
 ## Impact
 
