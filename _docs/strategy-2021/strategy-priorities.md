@@ -26,7 +26,7 @@ Why? we think the next will be the **benefits** and also will be **our goals**:
 * Reusability
 * Facilitate the rotation and onboarding in the projects
 * Resilience in case of leavings
-* [Define quality goals for 2021](/docs/strategy-2021/quality-goals)
+* [Define quality goals for 2021](/frontismos/docs/strategy-2021/quality-goals)
 
 
 ## Visibility and communication
@@ -65,7 +65,7 @@ Our goals:
 
 We need a plan of growing for the team, where our roles, responsibilities and expectations have been defined and are explicit. We are waiting for the People and Culture initiative where we will participate actively.
 
-* Current and not updated [growing paths]((/docs/growing-paths/index))
+* Current and not updated [growing paths]((/frontismos/docs/growing-paths/index))
 
 ## Training and innovation
 

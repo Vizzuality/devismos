@@ -10,12 +10,12 @@ You'll find here the definition of the different roles and the actual representa
 
 | Role | Current responsible |
 |:--|:--|
-| [Strategy facilitator](/docs/strategy-2021/roles/strategy) | Javier |
-| [Standardization and Quality](/docs/strategy-2021/roles/standardization-quality) | Clement |
-| [Visibility and communication](/docs/strategy-2021/roles/visibility-communication) | Alvaro |
-| [Community and knowledge sharing](/docs/strategy-2021/roles/community) | Pablo |
-| [Capacity](/docs/strategy-2021/roles/capacity) | Maria |
+| [Strategy facilitator](/frontismos/docs/strategy-2021/roles/strategy) | Javier |
+| [Standardization and Quality](/frontismos/docs/strategy-2021/roles/standardization-quality) | Clement |
+| [Visibility and communication](/frontismos/docs/strategy-2021/roles/visibility-communication) | Alvaro |
+| [Community and knowledge sharing](/frontismos/docs/strategy-2021/roles/community) | Pablo |
+| [Capacity](/frontismos/docs/strategy-2021/roles/capacity) | Maria |
 
 Related documents:
 
-* [How to adopt a role](/docs/guidelines/role-adoption)
+* [How to adopt a role](/frontismos/docs/guidelines/role-adoption)

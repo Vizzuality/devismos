@@ -9,7 +9,7 @@ grand_parent: Strategy 2021
 
 ## What we commit to
 
-- Name a [representative](/docs/strategy-2021/initiatives-directory/hiring-proposal/) one to help on the hiring process.
+- Name a [representative](/frontismos/docs/strategy-2021/initiatives-directory/hiring-proposal/) one to help on the hiring process.
 
 - Have a Long term strategy to increase capacity and hire people.
 
