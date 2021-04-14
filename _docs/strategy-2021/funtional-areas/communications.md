@@ -9,15 +9,17 @@ grand_parent: Strategy 2021
 
 ## What we commit to
 
-Align our communication pieces deliver with the broader communication strategy.
+- Align our communication pieces deliver with the broader communication strategy.
 
-Share our resources with communication about whatever interesting information.
+- Share our resources with communication about whatever interesting information.
 
 ## What they commit to
 
-Provide support for developers who are willing to write.
+- Provide support for developers who are willing to write.
 
-## Actions and related initiatives
+## Improvement/collaboration areas 
+_FA relation would benefit of these actions. 
+Implementing these initiatives would depend on capacity_
 
 * have four communication pieces by the end of the year.
 * align those pieces with the broader communication strategy.

@@ -5,7 +5,7 @@ parent: Roles
 grand_parent: Strategy 2021
 ---
 
-# Capacity role definition
+# Strategy role definition
 
 **Current responsible**: Javier Abia
 
@@ -23,4 +23,4 @@ grand_parent: Strategy 2021
 
 ## Decision making
 
-* Ensure all new initiatives [are following the guideline proposed](/docs/guidelines/how-to-create-initiatives/index)
+* Ensure all new initiatives [are following the guideline proposed](/frontismos/docs/guidelines/how-to-create-initiatives/index)

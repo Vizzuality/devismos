@@ -8,16 +8,16 @@ has_toc: false
 
 # Initiatives directory
 
-The next are the initiatives we should cover and start along the year. Remember to review [our priorities for this year](/docs/strategy-2021/strategy-priorities). Also, new initiatives are welcome and here you can review [how to create new initiatives](/docs/guidelines/how-to-create-initiatives/index).
+The next are the initiatives we should cover and start along the year. Remember to review [our priorities for this year](/frontismos/docs/strategy-2021/strategy-priorities). Also, new initiatives are welcome and here you can review [how to create new initiatives](/frontismos/docs/guidelines/how-to-create-initiatives/index).
 
 | Initiative | Status | Strategy | Owner | FA collaboration |Start date | End date |
 |:--|:--|:--|:--|:--|:--|:--|
-| [Strategy definition](/docs/strategy-2021/initiatives-directory/strategy-definition) | Ongoing | - | David I. and Javi | - | Nov-2020 | Mar-2021 |
-| [Community and growth](/docs/strategy-2021/initiatives-directory/community-growth) | Ongoing | Community and share knowledge | Alvaro and Pablo | - | Nov-2020 | Mar-2021 | 
-| [Layer Manager](/docs/strategy-2021/initiatives-directory/quality) | Ongoing | Standardization and quality | David I. | - | Feb-2021 | Mar-2021 |
-| [Hiring proposal](/docs/strategy-2021/initiatives-directory/hiring-proposal) | Ongoing | Capacity and hiring | Tomas | People and Culture | Mar-2021 | Mar-2021 |
-| [Skills survey](/docs/strategy-2021/initiatives-directory/skills-survey) | Ongoing | Visibility and communication | Alvaro and Maria | - | Jan-2021 | - |
-| [Accessibility course](/docs/strategy-2021/initiatives-directory/accessibility-course) | Proposal | Community and knowledge sharing | Pablo and Clement | - | - | - |
+| [Strategy definition](/frontismos/docs/strategy-2021/initiatives-directory/strategy-definition) | Ongoing | - | David I. and Javi | - | Nov-2020 | Mar-2021 |
+| [Community and growth](/frontismos/docs/strategy-2021/initiatives-directory/community-growth) | Ongoing | Community and share knowledge | Alvaro and Pablo | - | Nov-2020 | Mar-2021 | 
+| [Layer Manager](/frontismos/docs/strategy-2021/initiatives-directory/quality) | Ongoing | Standardization and quality | David I. | - | Feb-2021 | Mar-2021 |
+| [Hiring proposal](/frontismos/docs/strategy-2021/initiatives-directory/hiring-proposal) | Ongoing | Capacity and hiring | Tomas | People and Culture | Mar-2021 | Mar-2021 |
+| [Skills survey](/frontismos/docs/strategy-2021/initiatives-directory/skills-survey) | Ongoing | Visibility and communication | Alvaro and Maria | - | Jan-2021 | - |
+| [Accessibility course](/frontismos/docs/strategy-2021/initiatives-directory/accessibility-course) | Proposal | Community and knowledge sharing | Pablo and Clement | - | - | - |
 | Vizz components | - | Standardization and quality | Clement? | - | - | - |
 | Typescript adoption | - | Standardization and quality | - | - | Jan-2021 | Dec-2021 |
 | Testing adoption | - | Standardization and quality | - | - | Jan-2021 | Dec-2021 |
@@ -30,4 +30,4 @@ The next are the initiatives we should cover and start along the year. Remember 
 The next initiatives are not a priority for this year:
 
 | Initiative name | Strategy | FA collaboration |
-| [Engineering blog creation](/docs/strategy-2021/initiatives-directory/typescript) | Visibility and Communication | Communication |
+| [Engineering blog creation](/frontismos/docs/strategy-2021/initiatives-directory/typescript) | Visibility and Communication | Communication |
