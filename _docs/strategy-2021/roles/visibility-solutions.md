@@ -36,6 +36,7 @@ It's a big role so it should be splitted in the future and the owner should dele
 ## Impact
 
 - Improve our visibility, transparency and collaboration with other functional areas
+- Improve the proposal workflow
 
 ## Decision making
 
