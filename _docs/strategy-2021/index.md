@@ -13,7 +13,7 @@ has_toc: true
 
 ## Purpose
 
-To be an solid, organized and cohesive team, with standardized processes and high quality in our deliverables. Where our work and experience is more visible among the functional areas and also outside the company. We are good developers and we are proud of what we do.
+To be a solid, organized and cohesive team, with standardized processes and high quality in our deliverables. Where our work and experience is more visible among the functional areas and also outside the company. We are good developers and we are proud of what we do.
 
 ## What's new?
 
