@@ -12,7 +12,7 @@ You'll find here the definition of the different roles and the actual representa
 |:--|:--|
 | [Strategy facilitator](/frontismos/docs/strategy-2021/roles/strategy) | Javier |
 | [Standardization and Quality](/frontismos/docs/strategy-2021/roles/standardization-quality) | Clement |
-| [Visibility and communication](/frontismos/docs/strategy-2021/roles/visibility-communication) | Alvaro |
+| [Visibility and solutions](/frontismos/docs/strategy-2021/roles/visibility-solutions) | Alvaro |
 | [Community and knowledge sharing](/frontismos/docs/strategy-2021/roles/community) | Pablo |
 | [Capacity](/frontismos/docs/strategy-2021/roles/capacity) | Maria |
 
