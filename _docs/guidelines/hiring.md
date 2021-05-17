@@ -11,7 +11,7 @@ parent: Guidelines
 
 ## Code challenge
 
-[TO-DO] Explanation and link to code challenge
+Coding challenge + description can be found [here](https://github.com/Vizzuality/front-end-code-challenge)
 
 ## Soft skills
 
