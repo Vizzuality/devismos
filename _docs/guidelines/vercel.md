@@ -6,7 +6,7 @@ parent: Guidelines
 
 # Vercel
 
-As much as possible, the front-end team uses [Vercel](https://vercel.com/) to automatically deploy branches when Pull Requests are created. These branches can be viewed by anyone that needs to review changes.
+[Vercel](https://vercel.com/) is our agreed on default platform to automatically deploy branches when Pull Requests are created. These branches can be viewed by anyone that needs to review changes. We will use this whenever possible.
 
 Vercel may not be used in certain cases:
 
