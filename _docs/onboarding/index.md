@@ -3,9 +3,13 @@ layout: default
 title: Onboarding
 ---
 
+# Welcome to vizzuality
+
 Hello and welcome to vizzuality and the front end team!
 
 We are happy to have you on board and this document will explain in short what will be your next steps + some useful links to documentation and other goodies.
+
+This site contains all of the information related to our front end functional area, as in meeting notes, research documentation.
 
 ## How we work
 
@@ -27,6 +31,11 @@ Every tuesday we have a team allocation meeting, where we bring up allocation ne
 
 Is another meeting we have every friday. This is a relaxed meeting where you can share any cool technology you're exploring, problems you're phasing in your projects, or simply just chat with the team. This is a space where we as a team just wants to have fun. The agenda is posted in our frontismos slack channel, you can comment there if you have anything you want to discuss with the team.
 
+More information about our recurring meetings can be found [here](http://localhost:4000/frontismos/docs/recurrent-activities/index/).
+
+### Peer programming sessions
+
+Every week you will get one random front end colleague assigned with you, you get one hour to code/discuss anything you want, you can decide any time in the week to perform this session. this will be announced on the frontismos slack channel.
 
 ## Your first day
 
