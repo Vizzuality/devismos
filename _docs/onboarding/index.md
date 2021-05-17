@@ -15,7 +15,7 @@ We don't work in silos and communicate with the other functional areas to align 
 
 Within all functional areas you will have some designated roles, this is true for front end as well. You can see our current roles [here](http://localhost:4000/frontismos/docs/strategy-2021/roles/index/). If you are interested in helping the person assigned to this role, reach out to them!
 
-These roles can change, and we/you might find another area we can improve as a team. If you want to explore or create a new role there is a role template [here](https://docs.google.com/document/d/1oulqgKQLRBvBEUty8cDx4xVKlHfRsmJ7VVi1mTFRt-g/edit) that is global for every functional area.
+These roles can change, and we/you might find another area we can improve as a team. If you want to explore or create a new role there is a role template [here](https://docs.google.com/document/d/1oulqgKQLRBvBEUty8cDx4xVKlHfRsmJ7VVi1mTFRt-g/edit) that is global for every functional area. If this is not clear, reach out to either Sebastian or any other person in the front end team who has gone through creating a role.
 
 ### Team meetings
 
