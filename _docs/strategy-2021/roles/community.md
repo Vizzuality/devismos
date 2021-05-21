@@ -35,7 +35,6 @@ Current experiment timeline: **June - September** _(both included)_
 
 ## Nice-to-haves
 
-- 
 * Help on the maintenance of guidelines related
 * Update the pair programming sessions
 * Ensure frontismos meeting have an agenda
