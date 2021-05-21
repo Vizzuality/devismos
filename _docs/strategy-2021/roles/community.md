@@ -13,19 +13,19 @@ Current experiment timeline: **June - September** _(both included)_
 
 ## Commitments
 
-* **Frontismos Agenda**
+* **Frontismos Agenda** 📆
   * Reminder to gather ideas with some time in advance
   * Share official agenda prior to the meeting
-* **Pair programming**
+* **Pair programming** 💻♻️:computer: 
   * Define the pair programming pairs/trios weekly on Mondays and sent a message to #frontismos with the results
   * Add a Zapier hook so that feedback submissions are notified on Slack _(frontismos channel)_ ✔️
   * Encourage people to submit feedback about their pair programming sessions
   * First basic data analysis and presentation of the feedback compiled so far.
-* **Knowledge pills** (projects' learnings sharing)
+* **Knowledge pills** (projects' learnings sharing) 💊:book:
   * Put together a workflow to share learnings that we make as part of our daily work in projects. _(I'll liaise with Clément for this since it may be related to the Quality role as well)_
-* **Physical get-together**
-  * Start planning out our first front-end get-together 🏖️🌴🙌
-* **Mob programming sessions**
+* **Physical get-together** 🏖️🌴🙌
+  * Start planning out our first front-end get-together
+* **Mob programming sessions** 👨‍👨‍👦‍👦 👩‍👩‍👧‍👦 👨‍👨‍👦‍👦 👩‍👩‍👧‍👦
   * Help with the creation of new mob programming sessions
 * **Other**
   * Motivate people to collaborate
