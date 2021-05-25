@@ -15,10 +15,10 @@ grand_parent: Strategy 2021
 
 ## Responsibilities (& Decision Making Rights)
 
-* **Frontismos Agenda **
+* **Frontismos Agenda**
   * Reminder to gather ideas with some time in advance
   * Share official agenda on Thursdays (one day prior to the meeting)
-* **Pair programming **
+* **Pair programming**
   * Define the pair programming pairs/trios weekly on Mondays and sent a message to #frontismos with the results
   * Add a Zapier hook so that feedback submissions are notified on Slack (frontismos channel) ✔️
   * Encourage people to submit feedback about their pair programming sessions
