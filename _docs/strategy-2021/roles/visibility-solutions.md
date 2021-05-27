@@ -41,3 +41,31 @@ It's a big role so it should be splitted in the future and the owner should dele
 ## Decision making
 
 - In collaboration with the capacity owner improve the proposals allocation workflow and directly allocate people required if needed
+
+---
+
+## Scoped Definition of role (May - Aug included)
+
+### Visibility
+
+- “All FA Roles description and responsible document” to be included on the playbook
+- Help with the creation of blog posts: Motivate, help to organize and review (with Camelia maybe), and promote the posts.
+
+### Solutions
+
+#### Assess skills:
+
+  - Create survey v2: Review skills and rating system
+  - Launch Frontend Skills app V2. New features:
+  
+    - Improved visualization based on the science iteration
+    - Developers page and tags for developers interest and expertise
+
+#### Explain:
+
+- Have a conversation with BD about their needs and how to work with them. Think about how the Frontend workflow document could help them and Improve proposal assign decisions.
+
+#### Assign:
+
+- Improve communication of medium and long-term capacity estimations. Start long term capacity line chart
+- Continue and improve Communication with capacity
