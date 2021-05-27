@@ -8,4 +8,4 @@ has_toc: true
 
 Devismos is a place where front-end & back-end gather and share all their information about their strategies.
 
-
+// TODO: Add Site index (not ready yet)
