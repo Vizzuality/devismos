@@ -23,4 +23,4 @@ grand_parent: Strategy 2021
 
 ## Decision making
 
-* Ensure all new initiatives [are following the guideline proposed](/frontismos/docs/guidelines/how-to-create-initiatives/index)
+* Ensure all new initiatives [are following the guideline proposed](/devismos/docs/guidelines/how-to-create-initiatives/index)

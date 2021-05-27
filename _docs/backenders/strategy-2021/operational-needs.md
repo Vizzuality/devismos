@@ -11,7 +11,7 @@ has_toc: false
 
 ## Operations
 
-Everybody will spend a **5% of our time on operations** as minimum ([Frontismos](/frontismos/docs/recurrent-activities/frontismos-meetings) and [Capacity meeting](/frontismos/docs/recurrent-activities/capacity-meetings)).
+Everybody will spend a **5% of our time on operations** as minimum ([Frontismos](/devismos/docs/backenders/recurrent-activities/frontismos-meetings) and [Capacity meeting](/devismos/docs/backenders/recurrent-activities/capacity-meetings)).
 And could increase until **20% of our time on operations** in some cases. For instance the organizational roles, team retrospectives and other very specific activities.
 
 [What is operations?](https://vizzuality.slack.com/archives/CQJSJU6VC/p1612188008027200)

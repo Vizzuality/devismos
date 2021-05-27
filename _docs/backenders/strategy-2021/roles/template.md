@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capacity
+title: Template
 parent: Roles
 grand_parent: Strategy 2021
 ---

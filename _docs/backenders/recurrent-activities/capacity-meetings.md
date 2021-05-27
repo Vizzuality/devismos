@@ -7,7 +7,7 @@ grand_parent: Backenders
 
 # Capacity meetings
 
-**Responsible**: [Capacity owner]((/frontismos/docs/roles/capacity/index))
+**Responsible**: [Capacity owner](/devismos/docs/backenders/strategy-2021/roles/capacity/index)
 
 ## Objective
 
@@ -46,10 +46,10 @@ Every member of the functional area should:
 
 1. Introduction and review agenda. Changes on the agenda could be made.
 2. For every project: ask for volunteers to be the main developer and supporter
-3. For every project: in case no volunteers and urgency capacity owner will decide (see [capacity owner rol](/frontismos/docs/roles/capacity/index))
+3. For every project: in case no volunteers and urgency capacity owner will decide (see [capacity owner rol](/devismos/docs/backenders/strategy-2021/roles/capacity/index))
 4. First week of every month we will make a quick retrospective of the previous month
 
 ## After the meeting
 
-* Publish meeting notes and decisions made on [meeting notes](/frontismos/docs/meetings-notes/capacity/index) section
+* Publish meeting notes and decisions made on [meeting notes](/devismos/docs/meetings-notes/capacity/index) section
 * Share the output to capacity channel

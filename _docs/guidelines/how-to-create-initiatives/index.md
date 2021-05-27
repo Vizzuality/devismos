@@ -15,7 +15,7 @@ Having a common agreement on how to define and run initiatives would lead us to 
 
 Taking the time to reflect and refine, through advice, the actions that we want to undertake as a group, could increase the feeling of belonging in the team as everyone would be aware of the path we are walking. 
 
-Find [here an initiative template](/frontismos/docs/guidelines/how-to-create-initiatives/initiative-template/) that could help you get started with a proposal.
+Find [here an initiative template](/devismos/docs/guidelines/how-to-create-initiatives/initiative-template/) that could help you get started with a proposal.
 
 These are the context and steps that would make a clear proposal 👇
 
@@ -23,7 +23,7 @@ These are the context and steps that would make a clear proposal 👇
 
 Every initiative needs to define the __responsibilities__ of the people leading it. What they expect are gonna be the __outcomes/impact__ of this initiative and which would be the __decission making rights__ of the persons leading the initiative.
 
-The defined roles for the active initiatives would be available on the [Roles](/frontismos/docs/strategy-2021/roles/index/) section of current year strategy.
+The defined roles for the active initiatives would be available on the [Roles](/devismos/docs/frontismos/strategy-2021/roles/index/) section of current year strategy.
 
 ## Experiment (Proposal)
 

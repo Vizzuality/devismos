@@ -11,8 +11,8 @@ You'll find here the definition of the different roles and the actual representa
 
 | Role | Current responsible |
 |:--|:--|
-| [template](/frontismos/docs/strategy-2021/roles/template) | --- |
+| [template](/devismos/docs/backenders/strategy-2021/roles/template) | --- |
 
 Related documents:
 
-* [How to adopt a role](/frontismos/docs/guidelines/role-adoption)
+* [How to adopt a role](/devismos/docs/guidelines/role-adoption)
