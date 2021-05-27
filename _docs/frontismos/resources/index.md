@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resources
+parent: Frontismos
 has_children: false
 has_toc: false
 ---

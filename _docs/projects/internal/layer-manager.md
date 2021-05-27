@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Layer Manager
-parent: Projects
+parent: Internal projects
+grand_parent: Projects
 ---
 
 Layer manager documentation.

@@ -2,6 +2,7 @@
 layout: default
 title: Initiatives directory
 parent: Strategy 2021
+grand_parent: Frontismos
 has_children: true
 has_toc: false
 ---

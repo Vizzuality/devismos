@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Strategy 2021
+parent: Frontismos
 has_children: true
 has_toc: true
 ---

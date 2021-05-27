@@ -2,6 +2,7 @@
 layout: default
 title: Weekly capacity meetings
 parent: Recurrent activities
+grand_parent: Backenders
 ---
 
 # Capacity meetings

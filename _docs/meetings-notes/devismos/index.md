@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Frontismos notes
+title: Devismos
 parent: Meeting notes
 has_children: true
 has_toc: true
 ---
 
-# Frontismos Friday's meeting notes
+# Devismos Friday's meeting notes

@@ -2,6 +2,7 @@
 layout: default
 title: Initiatives directory
 parent: Strategy 2021
+grand_parent: Backenders
 has_children: true
 has_toc: false
 ---
@@ -21,4 +22,5 @@ The next are the initiatives we should cover and start along the year. Remember 
 The next initiatives are not a priority for this year:
 
 | Initiative name | Strategy | FA collaboration |
+|:--|:--|:--|
 |:--|:--|:--|

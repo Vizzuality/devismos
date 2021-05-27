@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Marxan
-parent: Projects
+parent: External projects
+grand_parent: Projects
 ---
 
 # Review of GraphQL for the Marxan cloud platform

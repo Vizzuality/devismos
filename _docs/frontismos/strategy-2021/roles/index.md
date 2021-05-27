@@ -4,6 +4,7 @@ title: Roles
 has_children: true
 has_toc: false
 parent: Strategy 2021
+grand_parent: Frontismos
 ---
 
 You'll find here the definition of the different roles and the actual representatives for the front end team.

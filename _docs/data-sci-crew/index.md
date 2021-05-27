@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Guidelines
-nav_order: 2
+title: Data science
 has_children: true
 has_toc: true
 ---
 
-# Guidelines
+# Science group at Vizzuality
+

@@ -2,6 +2,7 @@
 layout: default
 title: Quality goals
 parent: Strategy 2021
+grand_parent: Frontismos
 ---
 
 # Front end quality focus for 2021

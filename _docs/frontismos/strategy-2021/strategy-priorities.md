@@ -2,6 +2,7 @@
 layout: default
 title: Strategy priorities
 parent: Strategy 2021
+grand_parent: Frontismos
 ---
 
 # Strategy priorities for 2021

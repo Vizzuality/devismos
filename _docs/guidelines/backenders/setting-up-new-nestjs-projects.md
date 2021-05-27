@@ -1,7 +1,8 @@
 ---
 layout: default
 title: NestJS for Vizzuality projects
-parent: Guidelines
+parent: Backenders guidelines
+grand_parent: Guidelines
 ---
 
 # NestJS for Vizzuality projects

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Vercel
-parent: Guidelines
+parent: Frontismos guidelines
+grand_parent: Guidelines
 ---
 
 # Vercel

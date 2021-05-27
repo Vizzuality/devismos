@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Email providers
-parent: Guidelines
+parent: Backenders guidelines
+grand_parent: Guidelines
 ---
 
 # Email providers

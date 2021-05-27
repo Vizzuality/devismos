@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2020-01-17
-parent: Frontismos
+parent: Frontismos notes
 grand_parent: Meeting notes
 ---
 

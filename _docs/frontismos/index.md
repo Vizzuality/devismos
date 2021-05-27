@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Welcome to Frontismos
+title: Frontismos
 has_toc: true
+has_children: true
 ---
 
 # Front end group at Vizzuality

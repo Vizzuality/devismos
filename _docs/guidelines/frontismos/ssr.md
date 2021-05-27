@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Server side rendering
-parent: Guidelines
+parent: Frontismos guidelines
+grand_parent: Guidelines
 ---
 
 # Server side rendering

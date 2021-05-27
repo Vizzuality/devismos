@@ -1,7 +1,8 @@
 ---
 layout: default
 title: CI/CD tools
-parent: Guidelines
+parent: Backenders guidelines
+grand_parent: Guidelines
 ---
 
 # CI/CD tools

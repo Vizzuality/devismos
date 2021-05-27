@@ -2,6 +2,7 @@
 layout: default
 title: Hiring proposal
 parent: Strategy 2021
+grand_parent: Frontismos
 ---
 
 # Hiring proposal

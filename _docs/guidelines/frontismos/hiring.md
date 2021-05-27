@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Hiring process
-parent: Guidelines
+parent: Frontismos guidelines
+grand_parent: Guidelines
 ---
 
 
