@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Onboarding
+nav_order: 1
 ---
 
 # Welcome to vizzuality
@@ -13,11 +14,11 @@ This site contains all of the information related to our front end functional ar
 
 ## How we work
 
-We are a self organized team, this means that we design our own strategy. Our current strategy can be found [here](https://vizzuality.github.io/frontismos/docs/strategy-2021/index/). Within vizzuality we call this functional areas. There are other functional areas that will be useful for you to know about, and they can be found [here](https://vizzuality.github.io/frontismos/docs/strategy-2021/funtional-areas/index/).
+We are a self organized team, this means that we design our own strategy. Our current strategy can be found [here](/devismos/docs/frontismos/strategy-2021/index/). Within vizzuality we call this functional areas. There are other functional areas that will be useful for you to know about, and they can be found [here](/devismos/docs/frontismos/strategy-2021/funtional-areas/index/).
 
 We don't work in silos and communicate with the other functional areas to align on work/vision/allocation & other important areas.
 
-Within all functional areas you will have some designated roles, this is true for front end as well. You can see our current roles [here](https://vizzuality.github.io/frontismos/docs/strategy-2021/roles/index/). If you are interested in helping the person assigned to this role, reach out to them!
+Within all functional areas you will have some designated roles, this is true for front end as well. You can see our current roles [here](/devismos/docs/frontismos/strategy-2021/roles/index/). If you are interested in helping the person assigned to this role, reach out to them!
 
 These roles can change, and we/you might find another area we can improve as a team. If you want to explore or create a new role there is a role template [here](https://docs.google.com/document/d/1oulqgKQLRBvBEUty8cDx4xVKlHfRsmJ7VVi1mTFRt-g/edit) that is global for every functional area. If this is not clear, reach out to either Sebastian or any other person in the front end team who has gone through creating a role.
 
@@ -31,7 +32,7 @@ Every tuesday we have a team allocation meeting, where we bring up allocation ne
 
 Is another meeting we have every friday. This is a relaxed meeting where you can share any cool technology you're exploring, problems you're phasing in your projects, or simply just chat with the team. This is a space where we as a team just wants to have fun. The agenda is posted in our frontismos slack channel, you can comment there if you have anything you want to discuss with the team.
 
-More information about our recurring meetings can be found [here](https://vizzuality.github.io/frontismos/docs/recurrent-activities/index/).
+More information about our recurring meetings can be found [here](/devismos/docs/recurrent-activities/index/).
 
 ### Peer programming sessions
 

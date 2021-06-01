@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frontismos
+title: Frontismos notes
 parent: Meeting notes
 has_children: true
 has_toc: true

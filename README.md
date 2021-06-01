@@ -1,4 +1,6 @@
-# Front end documentation
+# Vizzuality dev documentation
+
+This project is the combination of BE + FE documents.
 
 ## Installation instructions
 

@@ -15,6 +15,6 @@ Most of our projects are open source, as in open for anyone. There are client ex
 
 Some nice to haves:
 
-1. Use versioning, as in releases within github, if possible also check the [vercel](http://localhost:4000/frontismos/docs/guidelines/vercel/) docs and how to set that up if its not there.
+1. Use versioning, as in releases within github, if possible also check the [vercel](http://localhost:4000/devismos/docs/guidelines/vercel/) docs and how to set that up if its not there.
 2. In some projects we use a dedicated project dev channel on slack, where we are integrating github. This is not a requirement but great to track changes within your project.
 
