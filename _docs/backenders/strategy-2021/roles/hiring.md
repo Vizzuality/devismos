@@ -62,7 +62,8 @@ grand_parent: Strategy 2021
 
 ## Impact
 
---
+- Reduce administrative burden on the BE team
+- Improve timeliness of starting hiring processes
 
 ## Decision making
 
