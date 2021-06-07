@@ -21,6 +21,7 @@ grand_parent: Strategy 2021
 - Having a track on the project proposal pipe.
 - Map and communicate skills.
 - Improve communication of medium and long-term capacity estimations.
+- Ensure alighnment between the capacity needs, hiring and outsourcing processes.
 - Listen and look for solutions to the group needs on capacity wise making sure capacity needs from the BE group are covered.
 - Push people to participate on capacity wise and ensure that, as a team we are aware and keep track of current allocations and delayed projects.
 - Improve the proposals allocation workflow and facilitate allocating people required if needed based on availability, interests and skills. 
