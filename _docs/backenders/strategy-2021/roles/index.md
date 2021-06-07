@@ -12,6 +12,7 @@ You'll find here the definition of the different roles and the actual representa
 | Role | Current responsible |
 |:--|:--|
 | [template](/devismos/docs/backenders/strategy-2021/roles/template) | --- |
+| [capacity](/devismos/docs/backenders/strategy-2021/roles/capacity) | --- |
 
 Related documents:
 
