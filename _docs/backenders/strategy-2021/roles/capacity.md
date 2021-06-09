@@ -15,7 +15,7 @@ grand_parent: Strategy 2021
 - Attend to capacity monthly meeting.
 - Participate in fortnightly BD meetings.
 - Participate in BD/FE retrospectives every 6 months.
-- Point of contact for other functional areas.
+- Point of contact for other functional areas to request occasional support on small tasks (i.e.: DNS changes, restart servers, legacy project related work, etc).
 
     **Inside the team:**
 - Having a track on the project proposal pipe.
