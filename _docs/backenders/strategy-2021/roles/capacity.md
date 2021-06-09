@@ -34,9 +34,9 @@ grand_parent: Strategy 2021
 - Detect possible lacks on capacity for the future.
 - Detect in advance possible spare capacity.
 - All projects will be covered on capacity wise.
-	- Too ambitious given that we cannot control all the moving parts. So here we need a more clear definition/approach to what does it mean and how much can we cover.
+- BE Team members feel supported and their demands, capacity wise, are listened and an action is taken.
 ***
 
 ## Decision making:
-- Facilitate allocating people required if needed based on availability and skills.
+- Facilitate allocating people required if needed based on skills and availability.
 
