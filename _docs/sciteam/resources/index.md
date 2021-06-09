@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Data science
+title: Resources
+parent: Science Team
 has_children: true
 has_toc: true
 ---
 
-# Science group at Vizzuality
+# Resources
 
+...tbd
