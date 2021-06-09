@@ -54,3 +54,4 @@ Some tips & best practices (mainly for non-devs) when working on this repo:
 - Create a Pull Request to merge with `master`, add a reviewer (including at least one Dev)
 - Whilst actively working on the PR, use the label `WIP` (_Work in progress_)
 - Once finished, remove the `WIP` label and add `ready to review`
+- Once approved, merge to `master` and deleve the old branch
