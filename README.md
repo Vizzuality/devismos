@@ -33,8 +33,8 @@ layout: default
 title: A title
 parent: Name of the parent
 grand_parent: Name of the grand parent if needed
-has_child: (bool)  
-has_toc: (bool) 
+has_child: true
+has_toc: true 
 ---
 
 Excepteur consequat reprehenderit velit mollit occaecat velit esse laborum eiusmod irure eu. Ex fugiat officia elit qui veniam nostrud nisi est. Est reprehenderit nisi sunt non nulla irure aute sunt do.
