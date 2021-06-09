@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Science
+title: Science Team
 parent: Functional areas
 grand_parent: Strategy 2021
 ---
 
-# Science
+# Science Team
 
 ## What we commit to
 
