@@ -25,7 +25,7 @@ bundle exec jekyll serve
 
 We are using the theme [Just the docs](https://github.com/pmarsceill/just-the-docs).
 
-You have to create markdown files inside the folder struction, following the structure:
+You have to create markdown files inside the `_docs` folder, with following the structure:
 
 ```
 ---
