@@ -44,3 +44,13 @@ Where:
 
 - `has_child` links to child content in the folder structure
 - `has_toc` shows table of child content at the bottom of the page 
+
+## Making a PR
+
+Some tips & best practices (mainly for non-devs) when working on this repo:
+
+- Create a new branch, off of `master`
+- Add your new content, testing locally as outlined above
+- Create a Pull Request to merge with `master`, add a reviewer (including at least one Dev)
+- Whilst actively working on the PR, use the label `WIP` (_Work in progress_)
+- Once finished, remove the `WIP` label and add `ready to review`
