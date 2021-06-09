@@ -17,16 +17,16 @@ grand_parent: Strategy 2021
 - Don't leave unanswered other functional areas requests for occasional support on small tasks (i.e.: DNS changes, restart servers, legacy project related work, etc).
 
     **Inside the team:**
-- Having a track on the project proposal pipe.
-- Map and communicate skills.
-- Improve communication of medium and long-term capacity estimations.
-- Ensure alighnment between the capacity needs, hiring and outsourcing processes.
-- Listen and look for solutions to the group needs on capacity wise making sure capacity needs from the BE group are covered.
-- Push people to participate on capacity wise and ensure that, as a team we are aware and keep track of current allocations and delayed projects.
+- Track with BD representative the project proposal pipe so we can anticipate and forecast capacity needs. in order to do so:
+    - Work in conjunction with the other FA capacity representatives in order to model and standardize of FA capacity status and predictions.
+    - Work with Miguel Mendoza to extract relevant information from vizz-tracker.
+    - Work in conjunction with other FA in order to automate and standardize data collection.
+- Map (adhere to the same tool used by backend), track and communicate skills if the knowledge and mentorship rol has no representative.
+- Improve communication of medium and long-term Backend capacity estimations.
+- Track and ensure alignment between the capacity needs, hiring and outsourcing processes.
+- Listen and work together with the BE team to find solutions to the needs on capacity and make sure capacity needs from the BE group are covered.
+- Push people to participate on capacity wise and ensure that, as a team we are aware and keep track of current allocations and delayed projects, as well as capacity imbalance are reduce to the bare minimum.
 - Improve the proposals allocation workflow and facilitate allocating people required if needed based on availability, interests and skills. 
-
-Not clear:
-Drive and promote automation for data collection and modelling predictions.
 ***
 
 
