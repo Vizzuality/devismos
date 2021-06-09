@@ -36,4 +36,4 @@ grand_parent: Strategy 2021
 -  Support the team
 
 ## Decision making
--  In collaboration with the capacity owner improve the proposals allocation workflow and directly allocate people required if needed
+-  In collaboration with the capacity owner be involved in the advice process when allocating proposals and suggest people allocation based on skills
