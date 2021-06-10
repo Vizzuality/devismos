@@ -4,7 +4,6 @@ title: Support & Growth
 parent: Roles
 grand_parent: Science Team
 ---
-
 # Support & Growth role definition
 
 **Current role owner**: AJ
@@ -27,6 +26,24 @@ This role *accelerates* growth of members of the science team, by:
 - Ensure that emerging & existing roles within the Science team are well defined and maintained, with adequate decision rights defined to allow them to achieve their purpose rapidly.
 
 - Facilitate the creation of new initiatives, assign roles to them, and accelerate their impact.
+
+## Current Experiments
+
+1. **Begin Project Pairing & Rotation Initiative**
+
+    - Assess projects, coordinate with Capacity
+    - Coordinate pairs & facilitate roles
+    - Check-ins can be done in sciteam meetings
+
+2. **Create growth framework for science**
+   
+    - Round of check-ins as everyone finishes their reviews w/ exec team. Gather feedback and make sure that everyone feels they have a realistic, actionable plan to grow at Vizz.
+    - Orchestrate the creation of a broad competency taxonomy using skill survey and with input from the team
+    - Create growth plan template and personal growth plans with each team member
+    - Summarise feedback and share with team
+
+3. **Define streamlined process for Initiative Lead creation process** 
+*(when the next opportunity arises)*
 ## Related Links
 
 * [Role Definition v2](https://docs.google.com/document/d/1wstNSI6X-O84blD_ZoXC6GRy9cg6wxdDYd5mcLIr_y4/edit?usp=sharing)
