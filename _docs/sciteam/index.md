@@ -11,6 +11,7 @@ _We are Scientists!_
 
 ### Quick links
 
+* [Sci Team Docs (Drive)](https://drive.google.com/drive/u/0/folders/1g6IDNeIkK9faym0oDI4hDnf3Hr53sCMa)
 * [Strategy 2021](/devismos/docs/sciteam/strategy-2021/index/)
   * [Functional area interactions](/devismos/docs/sciteam/strategy-2021/funtional-areas/index/)
   * [Initiatives directory](/devismos/docs/sciteam/strategy-2021/initiatives-directory/index)
