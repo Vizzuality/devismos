@@ -46,6 +46,6 @@ This role *accelerates* growth of members of the science team, by:
 *(when the next opportunity arises)*
 ## Related Links
 
-* [Role Definition v2](https://docs.google.com/document/d/1wstNSI6X-O84blD_ZoXC6GRy9cg6wxdDYd5mcLIr_y4/edit?usp=sharing)
-* [Role Definition v1](https://docs.google.com/document/d/1-XrxbV6VNOs8ZfAHU7a1scTQId92aVOCzvbcH2hNkL0/edit?usp=sharing)
+* [Role Definition v2](https://docs.google.com/document/d/1wstNSI6X-O84blD_ZoXC6GRy9cg6wxdDYd5mcLIr_y4/edit?usp=sharing){:target="_blank"}
+* [Role Definition v1](https://docs.google.com/document/d/1-XrxbV6VNOs8ZfAHU7a1scTQId92aVOCzvbcH2hNkL0/edit?usp=sharing){:target="_blank"}
 * [Pairing](/devismos/docs/sciteam/recurrent-activities/pairing)
