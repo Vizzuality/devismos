@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Roles
+parent: Science Team
 has_children: true
 has_toc: false
-parent: Science Team
 ---
 
 Current role owners:
