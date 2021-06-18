@@ -15,7 +15,7 @@ and efficiently, we keep clients happy and we can be proud of the work we do.
 This role is the point of contact between the Backend and on-going Quality 
 initiatives at Vizzuality.
 
-**Current responsible**: Henrique Pacheco
+**Current responsible**: Henrique Pacheco and Alex Larrañaga
 
 ## Responsibilities
 
