@@ -13,7 +13,7 @@ grand_parent: Strategy 2021
 
 ### Paper work:
 -  Prepare and ensure the agenda for Friday meetings, promote technical talks, discussion topics
--  Help on the maintenance of guidelines related
+-  Help on the maintenance of internal guidelines
 -  Update the pair programming sessions
 
 ### Cheer work:
