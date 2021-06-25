@@ -12,7 +12,7 @@ You'll find here the definition of the different roles and the actual representa
 | Role | Current responsible |
 |:--|:--|
 | [template](/devismos/docs/backenders/strategy-2021/roles/template) | --- |
-| [BD proposals](/devismos/docs/backenders/strategy-2021/roles/business-development-proposals) | --- |
+| [BD proposals](/devismos/docs/backenders/strategy-2021/roles/business-development-proposals) | Andrea Rota |
 | [Strategy](/devismos/docs/backenders/strategy-2021/roles/strategy) | Agnieszka Figiel |
 
 Related documents:

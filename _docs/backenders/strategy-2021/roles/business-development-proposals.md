@@ -19,7 +19,7 @@ Liaising with the Business Development team in terms of projected capacity needs
 for proposals awaiting evaluation/decision by potential clients is not part of
 this role.
 
-**Current responsible**: N/A
+**Current responsible**: Andrea Rota
 
 ## Responsibilities
 
