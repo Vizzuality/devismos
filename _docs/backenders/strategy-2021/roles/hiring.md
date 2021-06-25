@@ -22,8 +22,6 @@ grand_parent: Strategy 2021
 
 
 - Distributing tasks: reviewing candidates, attending interviews
-
-
 - Collaborating with P&C on job ads text
   
   *Responsibility to be shared with Capacity, Strategy roles*
