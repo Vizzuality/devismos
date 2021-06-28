@@ -23,8 +23,11 @@ initiatives at Vizzuality.
   initiatives at Vizzuality:
     - Attend the monthly Quality initiative meetings.
     - Share a summary and relevant details of these meetings with the BE FA.
-- Prioritize actions to be taken in terms of Quality, considering their cost 
-  and level of effort.
+- Ensure the team has a clear focus on quality:
+  - Support the FA engineers through the choice and periodic revision of actions
+    to be taken in terms of Quality, considering their cost and level of effort.
+  - Help set metrics for tracking the impact of quality-focused interventions on
+    the quality of our work.
 - Coordinate with the BE FA to distribute Quality actions across the BE FA 
   team members.
 - Follow up on the accomplishment of the targets defined in terms of Quality.
