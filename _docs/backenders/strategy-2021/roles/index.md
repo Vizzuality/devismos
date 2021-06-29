@@ -13,6 +13,10 @@ You'll find here the definition of the different roles and the actual representa
 |:--|:--|
 | [template](/devismos/docs/backenders/strategy-2021/roles/template) | --- |
 | [capacity](/devismos/docs/backenders/strategy-2021/roles/capacity) | --- |
+| [BD proposals](/devismos/docs/backenders/strategy-2021/roles/business-development-proposals) | Andrea Rota |
+| [Strategy](/devismos/docs/backenders/strategy-2021/roles/strategy) | Agnieszka Figiel |
+| [Hiring](/devismos/docs/backenders/strategy-2021/roles/hiring) | Rotational |
+| [Quality](/devismos/docs/backenders/strategy-2021/roles/quality) | --- |
 
 Related documents:
 
