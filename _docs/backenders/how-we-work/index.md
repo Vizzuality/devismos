@@ -34,9 +34,13 @@ advice, although we don't use pair programming as a daily way of working.
 We take code reviews both as an opportunity to improve our projects and to learn
 and mentor.
 
-We share interesting bits of our daily work at our weekly team meeting. We do
-also share frustrations, celebrate achievements and in general to sustain the
-team's growth, while keeping a light-hearted spirit.
+We meet twice a week for two distinct types of team meetings. The first one is
+an organisational one, dedicated to updating each other and making team
+decisions broadly related to running a self-managed organisation. The other one
+is a technical meeting, where we share interesting bits of our daily work. We do
+also share frustrations, celebrate achievements and in general sustain the
+team's growth, while keeping a light-hearted spirit. Once a month that meeting
+is held together with the Front End engineers team.
 
 We try to make sure colleagues don't feel stuck or concerned about daily work or
 longer term career development, by reaching out, listening, sharing opinions and
