@@ -93,14 +93,14 @@ production environments.
 We test and deploy most of our code via CI/CD pipelines. We may run key tests
 via git hooks.
 
-We use Docker and Docker Compose for development environments.
+We may use Docker and Docker Compose for development environments.
 
 We run most of our projects on a range of cloud services typically either on the
 AWS or GCP platforms.
 
 We typically take care of database design, operations and performance. We work
-with relational databases (mostly PostgreSQL), NoSQL (mostly MongoDB and
-ElasticSearch), and other data systems such as Redis.
+with relational databases (mostly PostgreSQL), NoSQL (mostly MongoDB), and other
+data stores such as Redis.
 
 Most of our projects are relatively data-intensive, so we expect all team
 members to have or develop a strong command of advanced data management
