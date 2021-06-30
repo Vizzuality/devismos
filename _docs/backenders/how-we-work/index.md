@@ -21,11 +21,6 @@ In more complex or longer projects, a second backend engineer may be part of the
 team throughout the project or for part of it. Occasionally we may also add
 freelancers depending on load and schedules.
 
-We have been exploring how to consistently allocate a "sidekick" backend
-engineer on most projects so that peaks in workload can be smoothed, knowledge
-can be shared more broadly and there isn't a single "point of failure", but we
-still need to make this work.
-
 Whether as sole backend engineers or with one or more team members, we work in
 very close contact with user researchers, designers, frontend engineers,
 scientist, data engineers and project managers, both through scheduled stand up
