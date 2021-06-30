@@ -24,7 +24,7 @@ freelancers depending on load and schedules.
 Whether as sole backend engineers or with one or more team members, we work in
 very close contact with user researchers, designers, frontend engineers,
 scientist, data engineers and project managers, both through scheduled stand up
-meetings and spring planning and retrospectives and by proactively reaching out
+meetings and sprint planning and retrospectives and by proactively reaching out
 to plan ahead, discuss functional design, unblock other project members' work.
 
 We may occasionally pair up remotely to work together on specific functional
@@ -40,7 +40,7 @@ decisions broadly related to running a self-managed organisation. The other one
 is a technical meeting, where we share interesting bits of our daily work. We do
 also share frustrations, celebrate achievements and in general sustain the
 team's growth, while keeping a light-hearted spirit. Once a month that meeting
-is held together with the Front End engineers team.
+is held together with the frontend engineers team.
 
 We try to make sure colleagues don't feel stuck or concerned about daily work or
 longer term career development, by reaching out, listening, sharing opinions and
