@@ -6,18 +6,11 @@ has_children: false
 has_toc: false
 ---
 
-The sections below are an initial attempt at summarising in an hopefully
+The sections below are an attempt at summarising in an hopefully
 understandable and meaningful way what should be overall common traits of the
 backend group’s way of working, so that we can aim to be more intentional about
 how to represent our group’s work to potential candidates, whether in job
 descriptions or during job interviews and any follow-up questions.
-
-The tone is intentionally sober (mostly) as the aim, which is part of what we
-identified as needs during the April 2020 turnover retrospective, is to try to
-be clear with candidates (and between ourselves) about what we do and how we
-work: we would like to “sell” what is good about working as part of the
-functional area and at Vizzuality, and we should do so in as a honest and clear
-way as possible to avoid misalignment of expectations.
 
 ## Team collaboration
 
