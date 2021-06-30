@@ -24,7 +24,7 @@ freelancers depending on load and schedules.
 Whether as sole backend engineers or with one or more team members, we work in
 very close contact with user researchers, designers, frontend engineers,
 scientist, data engineers and project managers, both through scheduled stand up
-meetings and spring planning and retrospectives and by proactively reaching out
+meetings and sprint planning and retrospectives and by proactively reaching out
 to plan ahead, discuss functional design, unblock other project members' work.
 
 We may occasionally pair up remotely to work together on specific functional
