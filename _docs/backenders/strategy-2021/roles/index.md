@@ -17,6 +17,7 @@ You'll find here the definition of the different roles and the actual representa
 | [Strategy](/devismos/docs/backenders/strategy-2021/roles/strategy) | Agnieszka Figiel |
 | [Hiring](/devismos/docs/backenders/strategy-2021/roles/hiring) | Rotational |
 | [Quality](/devismos/docs/backenders/strategy-2021/roles/quality) | Henrique Pacheco / Alex |
+| [Standardization](/devismos/docs/backenders/strategy-2021/roles/standardization) | Tiago Garcia |
 
 Related documents:
 

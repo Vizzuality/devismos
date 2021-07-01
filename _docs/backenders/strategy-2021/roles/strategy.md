@@ -17,7 +17,7 @@ grand_parent: Strategy 2021
 
 ## Impact
 
--  Increase awareness of BE FA's needs and committments
+-  Increase awareness of BE FA's needs and commitments
 -  Improve adoption of commitments and agreements
 
 ## Decision making
