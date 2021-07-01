@@ -13,7 +13,7 @@ grand_parent: Strategy 2021
 
 - Improve technical standardization within our FA
     
-  - Identify commonly or recurring tasks/challenges/problems
+  - Identify common or recurring tasks/challenges/problems
   - Promote a conversation around them, identifying key pain points and solutions
   - Promote the election of a solution that strikes a good balance between reusability and efficiency/simplicity
   - Promote the involvement of other FA members in all the steps above
