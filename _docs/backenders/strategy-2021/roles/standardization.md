@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Template
+title: Standardization role definition
 parent: Roles
 grand_parent: Strategy 2021
 ---
