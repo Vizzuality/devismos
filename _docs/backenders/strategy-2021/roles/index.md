@@ -18,6 +18,7 @@ You'll find here the definition of the different roles and the actual representa
 | [Hiring](/devismos/docs/backenders/strategy-2021/roles/hiring) | Rotational |
 | [Quality](/devismos/docs/backenders/strategy-2021/roles/quality) | Henrique Pacheco / Alex |
 | [Standardization](/devismos/docs/backenders/strategy-2021/roles/standardization) | Tiago Garcia |
+| [Knowledge sharing and mentorship](/devismos/docs/backenders/strategy-2021/roles/knowledge-and-mentorship) | Ibrahim Lachguer / Andrea Rota |
 
 Related documents:
 
