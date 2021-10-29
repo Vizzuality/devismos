@@ -51,5 +51,5 @@ Every member of the functional area should:
 
 ## After the meeting
 
-* Publish meeting notes and decisions made on [meeting notes](/devismos/docs/meetings-notes/capacity/index) section
+* Publish meeting notes and decisions made on [meeting notes](https://docs.google.com/document/d/18XHSiCL4NVoBdrcmnQAfQtn7qLD9CVLUP3_bwyvvMtU/edit#) doc
 * Share the output to capacity channel
