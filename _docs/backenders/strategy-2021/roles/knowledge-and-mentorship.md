@@ -9,6 +9,39 @@ grand_parent: Strategy 2021
 
 **Current responsible**: Ibrahim Lachguer, Andrea Rota
 
+This role definition outlines both the *fuller* domain of responsibilities,
+impact and decision-making expectations for the role, as well as the *current
+focus* which we tuned during the October 2021 exercise on retrospective
+reflection about the initial implementation of the role.
+
+## Current focus
+
+- Facilitate and coordinate pair programming sessions
+
+  - Nudge colleagues to incorporate pair programming into daily work when
+    possible, useful and appropriate, whether as an impromptu practice or as
+    planned/scheduled sessions part of the wider pair programming roulette
+    initiatives (backend area, cross-functional areas)
+  - Promote sharing during the weekly tech meetings of feedback on any pair
+    programming sessions that happened during the week
+
+- Facilitate the weekly tech meetings
+
+  - Organize each meeting's agenda in advance, gathering input from colleagues
+  - Sustain the meeting with flexible rituals, for example inviting each one to
+    share successes, frustrations, learnings and pair programming experiences,
+    if any, from the current week
+  - Coordinate a lightweight meeting structure that can be felt as a safe and
+    inclusive space by everyone
+  - Balance personal inclinations towards speaking more or less (because of
+    character, tiredness, enthusiasm...)
+  - Allow for enough flexibility for occasional impromptu deeper focus on topics
+    that end up corralling broad interest during discussions
+  - Facilitate essential note-taking in a rotation pattern; the aim should be to
+    capture at least essential topics discussed, action points and
+    commitments, and strong support for/objections to specific items discussed
+  - Wrap up the meetings
+
 ## Responsibilities
 
 ### Paper work:
