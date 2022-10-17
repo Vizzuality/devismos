@@ -16,15 +16,6 @@ reflection about the initial implementation of the role.
 
 ## Current focus
 
-- Facilitate and coordinate pair programming sessions
-
-  - Nudge colleagues to incorporate pair programming into daily work when
-    possible, useful and appropriate, whether as an impromptu practice or as
-    planned/scheduled sessions part of the wider pair programming roulette
-    initiatives (backend area, cross-functional areas)
-  - Promote sharing during the weekly tech meetings of feedback on any pair
-    programming sessions that happened during the week
-
 - Facilitate the weekly tech meetings
 
   - Organize each meeting's agenda in advance, gathering input from colleagues
@@ -45,9 +36,18 @@ reflection about the initial implementation of the role.
 ## Responsibilities
 
 ### Paper work:
--  Prepare and coordinate the agenda for Friday meetings, promote technical talks, discussion topics.
--  Help with the maintenance of internal guidelines.
--  Coordinate pair programming sessions.
+
+- Prepare and coordinate the agenda for Friday meetings, promote technical talks, discussion topics.
+- Help with the maintenance of internal guidelines.
+- Facilitate and coordinate pair programming sessions
+
+  - Nudge colleagues to incorporate pair programming into daily work when
+    possible, useful and appropriate, whether as an impromptu practice or as
+    planned/scheduled sessions part of the wider pair programming roulette
+    initiatives (backend area, cross-functional areas)
+  - Promote sharing during the weekly tech meetings of feedback on any pair
+    programming sessions that happened during the week
+
 
 ### Cheer work:
 -  Remind people to take notes during meetings.
