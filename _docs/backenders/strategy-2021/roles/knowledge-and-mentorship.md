@@ -7,7 +7,7 @@ grand_parent: Strategy 2021
 
 # Knowledge Sharing && mentorship role definition
 
-**Current responsible**: Ibrahim Lachguer, Andrea Rota
+**Current responsible**: Yulia Belyakova, Andrea Rota
 
 This role definition outlines both the *fuller* domain of responsibilities,
 impact and decision-making expectations for the role, as well as the *current
