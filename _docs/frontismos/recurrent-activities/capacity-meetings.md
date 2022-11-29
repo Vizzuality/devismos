@@ -7,7 +7,7 @@ grand_parent: Frontismos
 
 # Capacity meetings
 
-**Responsible**: [Capacity owner]((/devismos/docs/frontismos/strategy-2021/roles/capacity/index))
+**Responsible**: [Capacity owner]((https://github.com/Vizzuality/devismos/blob/master/_docs/frontismos/strategy-2021/roles/capacity.md))
 
 ## Objective
 
